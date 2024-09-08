@@ -2,7 +2,7 @@
 #### Instructions:
 - Fork the repository
 - Clone it on your system
-- For each question create a separate class 
+- For each question create a separate class
 - Follow clean coding guidelines
 - Commit the code, for each solution, use proper commit messages.
 - Once completed all the questions, push the repository.
